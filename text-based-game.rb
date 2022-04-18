@@ -71,7 +71,7 @@ p 'ROUND 2'
 
 pokemon_array = ['Raikou', 'Entei', 'Suicune', 'Mewtwo']
 #
-p "Pick a next Legendary Pokemon"
+p "Pick a Legendary Pokemon"
 p "Raikou, Entei, Suicune, or Mewtwo"
 pokemon_pick = gets.chomp
 p '_____________________________________________________'
@@ -214,3 +214,38 @@ def battle (string)
   end
 end
 p battle (@IVpokemon_pick)
+
+
+
+
+
+
+p "                                 , "
+p "                               ,   ,'| "
+p "                             ,/|.-'   \. "
+p "                          .-'  '       |. "
+p "                    ,  .-'              | "
+p "                   /|,'                 |' "
+p "                  / '                    |  , "
+p "                 /                       ,'/ "
+p "              .  |          _              / "
+p "               \`' .-.    ,' `.           | "
+p "                \ /   \ /      \          / "
+p "                 \|    V        |        |  , "
+p "                  (           ) /.--.   ''/ "
+p "                  ""b.`. ,' _.ee'' 6)|   ,-' "
+p "                    \"= --""  )   ' /.-' "
+p "                     \ / `---   .  |' "
+p "  V E G E T A         \"..-    .'  |. "
+p "     W I N S           `-__..-','   | "
+p "                     __.) ' .-'/    /\._ "
+p "               _.--'/----..--------. _.-""-._ "
+p "            .-'_)   \.   /     __..-'     _.-'--. "
+p "           / -'/      """"""""""         ,'-.   . `. "
+p "          | ' /                        /    `   `. \ "
+p "          |   |                        |         | | "
+p "           \ .'\                       |     \     | "
+p "          / '  | ,'               . -  \`.    |  / / "
+p "         / /   | |                      `/""--. -' /\ "
+p "        | |     \ \                     /     \     | "
+p "        | \      | \                  .-|      |    | "
